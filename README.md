@@ -1,2 +1,3 @@
-# test-repo-123
-A test repository for GitHub tools
+# Updated README
+
+This is a test file for GitHub tools.
